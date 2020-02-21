@@ -1,4 +1,4 @@
-I am <www.linkedin.com/in/oscarrep>(Oscar Reguera), student of the <https://www.citm.upc.edu/ing/estudis/graus-videojocs/>(Bachelor’s Degree in Video Games by UPC at CITM). This content is generated for the second year’s subject Project 2, under supervision of lecturer <https://www.linkedin.com/in/mgarrigo/>(Marc Garrigó).
+I am <www.linkedin.com/in/oscarrep> (Oscar Reguera), student of the <https://www.citm.upc.edu/ing/estudis/graus-videojocs/> (Bachelor’s Degree in Video Games by UPC at CITM). This content is generated for the second year’s subject Project 2, under supervision of lecturer <https://www.linkedin.com/in/mgarrigo/> (Marc Garrigó).
 
 ## Available Licences
 
