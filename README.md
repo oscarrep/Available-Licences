@@ -1,9 +1,5 @@
 I am [Oscar Reguera](www.linkedin.com/in/oscarrep), student of the [Bachelor’s Degree in Video Games by UPC at CITM](https://www.citm.upc.edu/ing/estudis/graus-videojocs/). This content is generated for the second year’s subject Project 2, under supervision of lecturer [Marc Garrigó](https://www.linkedin.com/in/mgarrigo/).
 
-## Available Licences
-
-What are video game licences? Diving into the legal aspects of software and game development.
-
 You can use the [editor on GitHub](https://github.com/oscarrep/Available-Licences/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
