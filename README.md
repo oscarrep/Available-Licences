@@ -3,6 +3,7 @@ I am [Oscar Reguera](www.linkedin.com/in/oscarrep), student of the [Bachelor’s
 ## Available Licences
 
 What are video game licences? Diving into the legal aspects of software and game development.
+
 You can use the [editor on GitHub](https://github.com/oscarrep/Available-Licences/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
