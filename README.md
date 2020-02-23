@@ -32,3 +32,14 @@ A trademark not only gives the owner exclusive right to use the mark but also al
 
 If someone wants to claim the rights of a particular mark, they can use ™ for trademark and ℠ for service mark. The ® symbol means federal registration and can only be used after the USPTO registers the mark. The ® symbol can only be used with goods and/or services that were listed in the federal trademark application.
 
+## Licencing IPs
+
+Do your research. When developing software, the first thing one needs to do is making sure no one else already owns the rights to it. This is a rather complex issue, so most experts recommend hiring a patent attorney to do a full patent research.
+
+Patents are awarded to new inventions and non-obvious improvements, which would include lots of things that can save development time.
+
+## Free software licenses
+
+Here is a list of some open source software licenses and a bit of comparison between them. They are already available on GitHub so there is no need to look for them anywhere else.
+
+### Apache License 2.0 ```apache-2.0```
