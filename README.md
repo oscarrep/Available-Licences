@@ -8,6 +8,12 @@ Video game licensing is an essential step to a successful manufacturing, distrib
 
 A [copyright](https://copyrightalliance.org/ca_faq_post/what-is-copyright/) is a collection of rights that is automatically granted to someone who creates an original author's work, such as a literary work, a song, a movie or some kind of software. These rights include the right to reproduce the work, prepare derivative works, distribute copies and perform and display the work to the public.
 
+There are three requirements a work must meet in order to be protected by copyright:
+- **Originality:** a work can’t be a copy of another's work. There is no need for it to be novel, unique, imaginative or inventive.
+- **Creativity:** a work has to demonstrate a small amount of creativity.
+- **Fixed:** a work needs to be fixed in a tangible medium of expression.
+
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/oscarrep/Available-Licences/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
