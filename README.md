@@ -4,29 +4,9 @@ I am [Oscar Reguera](www.linkedin.com/in/oscarrep), student of the [Bachelor’s
 
 Video game licensing is an essential step to a successful manufacturing, distribution and selling of a videogame. Copyrights are an important first step of the licensing process as it gives you legal ownership to your game. As owner of the game you can initiate licensing contracts to distribute and sell your work. Licenses are executed in compliance with various laws and ensure that the developer’s rights and interests are well protected. Both big video game companies and indie developers need to protect their intellectual property to prevent misuse of their product.
 
-### Markdown
+## What is copyright?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+A [copyright](https://copyrightalliance.org/ca_faq_post/what-is-copyright/) is a collection of rights that is automatically granted to someone who creates an original author's work, such as a literary work, a song, a movie or some kind of software. These rights include the right to reproduce the work, prepare derivative works, distribute copies and perform and display the work to the public.
 
 ### Jekyll Themes
 
