@@ -25,3 +25,10 @@ Fair use is a defense against a claim of copyright infringement. Any copying of 
 ## And trademark?
 
 According to the [United States Patent and Trademark Office (USPTO)](https://www.uspto.gov/trademarks-getting-started/trademark-basics/trademark-patent-or-copyright), a **trademark** is a word, phrase, symbol, and/or design that identifies and distinguishes the source of the goods of one party from those of others. A **service mark** is a word, phrase, symbol, and/or design that identifies and distinguishes the source of a service rather than goods. Some examples include brand names, slogans, and logos. The term "trademark" is often used in a general sense to refer to both trademarks and service marks.
+
+Trademarks don’t expire after a number of years like copyrights do. Trademark rights come from use, meaning a trademark could last forever as long as it’s being used.
+
+A trademark not only gives the owner exclusive right to use the mark but also allows them to prevent others from using any similar mark that could be confusing for the public. It doesn’t prevent others from making and or selling the same services or goods under a clearly different mark.
+
+If someone wants to claim the rights of a particular mark, they can use ™ for trademark and ℠ for service mark. The ® symbol means federal registration and can only be used after the USPTO registers the mark. The ® symbol can only be used with goods and/or services that were listed in the federal trademark application.
+
