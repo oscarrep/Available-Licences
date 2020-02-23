@@ -1,12 +1,8 @@
 I am [Oscar Reguera](www.linkedin.com/in/oscarrep), student of the [Bachelor’s Degree in Video Games by UPC at CITM](https://www.citm.upc.edu/ing/estudis/graus-videojocs/). This content is generated for the second year’s subject Project 2, under supervision of lecturer [Marc Garrigó](https://www.linkedin.com/in/mgarrigo/).
 
-## Available Licences
+# Available Licences
 
-What are video game licences? Diving into the legal aspects of software and game development.
-
-You can use the [editor on GitHub](https://github.com/oscarrep/Available-Licences/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Video game licensing is an essential step to a successful manufacturing, distribution and selling of a videogame. Copyrights are an important first step of the licensing process as it gives you legal ownership to your game. As owner of the game you can initiate licensing contracts to distribute and sell your work. Licenses are executed in compliance with various laws and ensure that the developer’s rights and interests are well protected. Both big video game companies and indie developers need to protect their intellectual property to prevent misuse of their product.
 
 ### Markdown
 
