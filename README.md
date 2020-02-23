@@ -13,11 +13,15 @@ There are three requirements a work must meet in order to be protected by copyri
 - **Creativity:** a work has to demonstrate a small amount of creativity.
 - **Fixed:** a work needs to be fixed in a tangible medium of expression.
 
+Copyright law covers the "form of material expression," not the actual concepts, ideas, techniques, or facts in a particular work. So a work must be fixed in a tangible form in order to receive protection from copyright.
 
-### Jekyll Themes
+Copyrighted works are usually protected for the duration of the author’s life plus another 70 years, for collaborative works this protection is applied for the duration of the last living member’s life plus 70 years. Anonymous works, as well as pseudonymous works and works made for hire are protected for 95 years starting from the year of first publication or 120 years from its creation, whichever expires first.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/oscarrep/Available-Licences/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Fair use
 
-### Support or Contact
+Rights granted to copyright owners are limited. Under specific circumstances, anyone can use a work without getting the copyright owner’s permission or paying to use it. As long as this usage stays within the limits of fair use.
+Fair use is a defense against a claim of copyright infringement. Any copying of a copyrighted material done for a transformative purpose, such as commentary, criticism, parody, education or research could be qualified as fair use.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## And trademark?
+
+According to the [United States Patent and Trademark Office (USPTO)](https://www.uspto.gov/trademarks-getting-started/trademark-basics/trademark-patent-or-copyright), a **trademark** is a word, phrase, symbol, and/or design that identifies and distinguishes the source of the goods of one party from those of others. A **service mark** is a word, phrase, symbol, and/or design that identifies and distinguishes the source of a service rather than goods. Some examples include brand names, slogans, and logos. The term "trademark" is often used in a general sense to refer to both trademarks and service marks.
