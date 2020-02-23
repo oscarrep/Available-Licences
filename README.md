@@ -42,4 +42,42 @@ Patents are awarded to new inventions and non-obvious improvements, which would 
 
 Here is a list of some open source software licenses and a bit of comparison between them. They are already available on GitHub so there is no need to look for them anywhere else.
 
-### Apache License 2.0 ```apache-2.0```
+### Apache License 2.0 
+###### ```apache-2.0```
+A permissive license whose main conditions require preservation of copyright and license notices. Contributors provide an express grant of patent rights. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
+### GNU General Public License v3.0 
+###### ```gpl-3.0```
+Permissions of this strong copyleft license are conditioned on making available complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights.
+### MIT License
+###### ```mit```
+A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
+### BSD 2-Clause “Simplified” License
+###### ```bsd-2-clause```
+A permissive license that comes in two variants, the BSD 2-Clause and BSD 3-Clause. Both have very minute differences to the MIT license.
+### BSD 3-Clause “New” or “Revised” License
+###### ```bsd-3-clause```
+A permissive license similar to the BSD 2-Clause License, but with a 3rd clause that prohibits others from using the name of the project or its contributors to promote derived products without written consent.
+### Creative Commons Zero v1.0 Universal
+###### ```cc0-1.0```
+The Creative Commons CC0 Public Domain Dedication waives copyright interest in a work you've created and dedicates it to the world-wide public domain. Use CC0 to opt out of copyright entirely and ensure your work has the widest reach. As with the Unlicense and typical software licenses, CC0 disclaims warranties. CC0 is very similar to the Unlicense.
+### Eclipse Public License 2.0
+###### ```epl-1.0```
+This commercially-friendly copyleft license provides the ability to commercially license binaries; a modern royalty-free patent license grant; and the ability for linked works to use other licenses, including commercial ones.
+### GNU Affero General Public License v3.0
+###### ```agpl-3.0```
+Permissions of this strongest copyleft license are conditioned on making available complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights. When a modified version is used to provide a service over a network, the complete source code of the modified version must be made available.
+### GNU General Public License v2.0
+###### ```gpl-2.0```
+The GNU GPL is the most widely used free software license and has a strong copyleft requirement. When distributing derived works, the source code of the work must be made available under the same license. There are multiple variants of the GNU GPL, each with different requirements.
+### GNU Lesser General Public License v2.1
+###### ```lgpl-2.1```
+Primarily used for software libraries, the GNU LGPL requires that derived works be licensed under the same license, but works that only link to it do not fall under this restriction. There are two commonly used versions of the GNU LGPL.
+### GNU Lesser General Public License v3.0
+###### ```lgpl-3.0```
+Permissions of this copyleft license are conditioned on making available complete source code of licensed works and modifications under the same license or the GNU GPLv3. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights. However, a larger work using the licensed work through interfaces provided by the licensed work may be distributed under different terms and without source code for the larger work.
+### Mozilla Public License 2.0
+###### ```mpl-2.0```
+Permissions of this weak copyleft license are conditioned on making available source code of licensed files and modifications of those files under the same license (or in certain cases, one of the GNU licenses). Copyright and license notices must be preserved. Contributors provide an express grant of patent rights. However, a larger work using the licensed work may be distributed under different terms and without source code for files added in the larger work.
+### The Unlicense
+###### ```unlicense```
+A license with no conditions whatsoever which dedicates works to the public domain. Unlicensed works, modifications, and larger works may be distributed under different terms and without source code.
