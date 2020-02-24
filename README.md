@@ -2,7 +2,7 @@ I am [Oscar Reguera](www.linkedin.com/in/oscarrep), student of the [Bachelor’s
 
 # Available Licences
 
-Video game licensing is an essential step to a successful manufacturing, distribution and selling of a videogame. Copyrights are an important first step of the licensing process as it gives you legal ownership to your game. As owner of the game you can initiate licensing contracts to distribute and sell your work. Licenses are executed in compliance with various laws and ensure that the developer’s rights and interests are well protected. Both big video game companies and indie developers need to protect their intellectual property to prevent misuse of their product.
+Licensing is an essential step to a successful manufacturing, distribution and selling of a videogame. Copyrights are an important first step of the licensing process as it gives you legal ownership to your game. As owner of the game you can initiate licensing contracts to distribute and sell your work. Licenses are executed in compliance with various laws and ensure that the developer’s rights and interests are well protected. Both big video game companies and indie developers need to protect their intellectual property to prevent misuse of their product.
 
 ## What is copyright?
 
@@ -22,6 +22,14 @@ Copyrighted works are usually protected for the duration of the author’s life 
 Rights granted to copyright owners are limited. Under specific circumstances, anyone can use a work without getting the copyright owner’s permission or paying to use it. As long as this usage stays within the limits of fair use.
 Fair use is a defense against a claim of copyright infringement. Any copying of a copyrighted material done for a transformative purpose, such as commentary, criticism, parody, education or research could be qualified as fair use.
 
+### Copyright vs. patent 
+
+Patents are the opposite of copyright, where copyright protects tangible mediums of expressions and offers a relatively weak protection for a long period of time, patents protect the ideas themselves and provide a very strong protection for a relatively short period of time. 
+
+Patents are awarded to new inventions and non-obvious improvements, which would include lots of things that can save development time. They also allow the owner to keep others from making, using, selling, exporting or importing components to be assembled into an infringing device. This protection usually lasts for 20 years from the moment of filing.
+
+To obtain a patent the creator must fill a claim explaining what the invention does and how it works. It‘s an extremely long, complex and expensive process to go through, so it is highly recommended to hire a patent attorney.
+
 ## And trademark?
 
 According to the [United States Patent and Trademark Office (USPTO)](https://www.uspto.gov/trademarks-getting-started/trademark-basics/trademark-patent-or-copyright), a **trademark** is a word, phrase, symbol, and/or design that identifies and distinguishes the source of the goods of one party from those of others. A **service mark** is a word, phrase, symbol, and/or design that identifies and distinguishes the source of a service rather than goods. Some examples include brand names, slogans, and logos. The term "trademark" is often used in a general sense to refer to both trademarks and service marks.
@@ -35,8 +43,6 @@ If someone wants to claim the rights of a particular mark, they can use ™ for 
 ## Licencing IPs
 
 Do your research. When developing software, the first thing one needs to do is making sure no one else already owns the rights to it. This is a rather complex issue, so most experts recommend hiring a patent attorney to do a full patent research.
-
-Patents are awarded to new inventions and non-obvious improvements, which would include lots of things that can save development time.
 
 ## Free software licenses
 
