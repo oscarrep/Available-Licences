@@ -91,15 +91,15 @@ A license with no conditions whatsoever which dedicates works to the public doma
 License | Permissions | Limitations | Conditions
 ------------ | ------------- | ------------- | -------------
 Apache License 2.0 | commercial use, modification, distribution, patent use, private use | trademark use, liability, warranty | license and copyright notice, state changes
-GNU General Public License v3.0 | Content in the second column | Content in the second column | Content in the second column
-MIT License | Content in the second column | Content in the second column | Content in the second column
-BSD 2-Clause “Simplified” License | Content in the second column | Content in the second column | Content in the second column
-BSD 3-Clause “New” or “Revised” License | Content in the second column | Content in the second column | Content in the second column
-Creative Commons Zero v1.0 Universal | Content in the second column | Content in the second column | Content in the second column
-Eclipse Public License 2.0 | Content in the second column | Content in the second column | Content in the second column
-GNU Affero General Public License v3.0 | Content in the second column | Content in the second column | Content in the second column
-GNU General Public License v2.0 | Content in the second column | Content in the second column | Content in the second column
-GNU Lesser General Public License v2.1 | Content in the second column | Content in the second column | Content in the second column
-GNU Lesser General Public License v3.0 | Content in the second column | Content in the second column | Content in the second column
-Mozilla Public License 2.0 | Content in the second column | Content in the second column | Content in the second column
-The Unlicense | Content in the second column | Content in the second column | Content in the second column
+GNU General Public License v3.0 | commercial use, modification, distribution, patent use, private use | liability, warranty | license and copyright notice, state changes, disclose source, same license
+MIT License | commercial use, modification, distribution, private use | liability, warranty | License and copyright notice
+BSD 2-Clause “Simplified” License | commercial use, modification, distribution, private use | liability, warranty | License and copyright notice
+BSD 3-Clause “New” or “Revised” License | commercial use, modification, distribution, private use | liability, warranty | License and copyright notice
+Creative Commons Zero v1.0 Universal | commercial use, modification, distribution, private use | trademark use, liability, warranty, patent use | 
+Eclipse Public License 2.0 | commercial use, modification, distribution, patent use, private use | liability, warranty | license and copyright notice, disclose source, same license
+GNU Affero General Public License v3.0 | commercial use, modification, distribution, patent use, private use | liability, warranty | license and copyright notice, state changes, disclose source, same license, network use is distribution
+GNU General Public License v2.0 | commercial use, modification, distribution, private use | liability, warranty | license and copyright notice, state changes, disclose source, same license
+GNU Lesser General Public License v2.1 | commercial use, modification, distribution, private use | liability, warranty | license and copyright notice, state changes, disclose source, same license (library)
+GNU Lesser General Public License v3.0 | commercial use, modification, distribution, patent use, private use | liability, warranty | license and copyright notice, state changes, disclose source, same license (library)
+Mozilla Public License 2.0 | commercial use, modification, distribution, patent use, private use | trademark use, liability, warranty | license and copyright notice, disclose source, same license (file)
+The Unlicense | commercial use, modification, distribution, private use | liability, warranty | 
