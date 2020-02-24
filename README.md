@@ -49,6 +49,8 @@ Do your research. When developing software, the first thing one needs to do is m
 
 Here is a list of some open source software licenses and a bit of comparison between them. They are already available on GitHub so there is no need to look for them anywhere else.
 
+![Popularity of open source licenses](https://github.blog/wp-content/uploads/2015/03/9dc14536-c367-11e4-9a63-b23a3d75af78.png?resize=762%2C445)
+
 ### Apache License 2.0 
 ###### ```apache-2.0```
 A permissive license whose main conditions require preservation of copyright and license notices. Contributors provide an express grant of patent rights. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
