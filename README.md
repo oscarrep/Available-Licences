@@ -1,6 +1,7 @@
 I am [Oscar Reguera](www.linkedin.com/in/oscarrep), student of the [Bachelor’s Degree in Video Games by UPC at CITM](https://www.citm.upc.edu/ing/estudis/graus-videojocs/). This content is generated for the second year’s subject Project 2, under supervision of lecturer [Marc Garrigó](https://www.linkedin.com/in/mgarrigo/).
 
 # What is licensing?
+Licensing is a business arrangement wherein a company allows another company to temporarily gain access to its intellectual property rights under specified conditions.
 
 Licensing is an essential step to a successful manufacturing, distribution and selling of a videogame. Copyrights are an important first step of the licensing process as it gives you legal ownership to your game. As owner of the game you can initiate licensing contracts to distribute and sell your work. Licenses are executed in compliance with various laws and ensure that the developer’s rights and interests are well protected. Both big video game companies and indie developers need to protect their intellectual property to prevent misuse of their product.
 
@@ -108,6 +109,7 @@ The Unlicense | commercial use, modification, distribution, private use | liabil
 ## Sources
 
 * [Video Game Licencing & Intelectual Property Lawyer - Grimes LLC](https://www.gandb.com/intellectual-property/licensing-attorney/video-game-licensing-intellectual-property-lawyer/)
+* [What is Licensing? definition, reasons, benefits and limitations](https://businessjargons.com/licensing.html)
 * [What is Copyright?](https://copyrightalliance.org/ca_faq_post/what-is-copyright/)
 * [What is a Copyright?](https://smallbusiness.findlaw.com/intellectual-property/what-is-copyright.html)
 * [How Long Does Copyright Protection Last? (FAQ)](https://www.copyright.gov/help/faq/faq-duration.html)
