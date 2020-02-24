@@ -103,3 +103,21 @@ GNU Lesser General Public License v2.1 | commercial use, modification, distribut
 GNU Lesser General Public License v3.0 | commercial use, modification, distribution, patent use, private use | liability, warranty | license and copyright notice, state changes, disclose source, same license (library)
 Mozilla Public License 2.0 | commercial use, modification, distribution, patent use, private use | trademark use, liability, warranty | license and copyright notice, disclose source, same license (file)
 The Unlicense | commercial use, modification, distribution, private use | liability, warranty | 
+
+
+## Sources
+
+* [Video Game Licencing & Intelectual Property Lawyer - Grimes LLC](https://www.gandb.com/intellectual-property/licensing-attorney/video-game-licensing-intellectual-property-lawyer/)
+* [What is Copyright?](https://copyrightalliance.org/ca_faq_post/what-is-copyright/)
+* [What is a Copyright?](https://smallbusiness.findlaw.com/intellectual-property/what-is-copyright.html)
+* [How Long Does Copyright Protection Last? (FAQ)](https://www.copyright.gov/help/faq/faq-duration.html)
+* [What Is Fair Use? - Copyright Overview by Rich Stim](https://fairuse.stanford.edu/overview/fair-use/what-is-fair-use/)
+* [What Is Fair Use?](https://copyrightalliance.org/ca_faq_post/what-is-fair-use/)
+* [Legal Issues for Game Developers](http://gamedesignconcepts.pbworks.com/w/page/11829076/Legal%20Issues%20for%20Game%20Developers)
+* [Trademark, Patent, or Copyright? | USPTO](https://www.uspto.gov/trademarks-getting-started/trademark-basics/trademark-patent-or-copyright)
+* [MASTERING THE GAME - page 108](https://www.wipo.int/edocs/pubdocs/en/copyright/959/wipo_pub_959.pdf)
+* [Licenses](https://choosealicense.com/licenses/)
+* [Licensing a repository](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/licensing-a-repository)
+* [50 Open Source Software Licenses: Beyond BSD, GNU, MIT](https://www.whoishostingthis.com/resources/open-source-licenses/)
+* [Open Source Licenses by Category](https://opensource.org/licenses/category)
+* [Choose a License: Choose an open source license](https://choosealicense.com)
