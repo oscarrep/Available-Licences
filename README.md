@@ -114,7 +114,7 @@ The Unlicense | commercial use, modification, distribution, private use | liabil
 * [What Is Fair Use? - Copyright Overview by Rich Stim](https://fairuse.stanford.edu/overview/fair-use/what-is-fair-use/)
 * [What Is Fair Use?](https://copyrightalliance.org/ca_faq_post/what-is-fair-use/)
 * [Legal Issues for Game Developers](http://gamedesignconcepts.pbworks.com/w/page/11829076/Legal%20Issues%20for%20Game%20Developers)
-* [Trademark, Patent, or Copyright? | USPTO](https://www.uspto.gov/trademarks-getting-started/trademark-basics/trademark-patent-or-copyright)
+* [Trademark, Patent, or Copyright? - USPTO](https://www.uspto.gov/trademarks-getting-started/trademark-basics/trademark-patent-or-copyright)
 * [MASTERING THE GAME - page 108](https://www.wipo.int/edocs/pubdocs/en/copyright/959/wipo_pub_959.pdf)
 * [Licenses](https://choosealicense.com/licenses/)
 * [Licensing a repository](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/licensing-a-repository)
