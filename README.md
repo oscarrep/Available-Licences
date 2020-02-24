@@ -47,7 +47,7 @@ Do your research. When developing software, the first thing one needs to do is m
 
 ## Free software licenses
 
-Here is a list of some open source software licenses and a bit of comparison between them. They are already available on GitHub so there is no need to look for them anywhere else.
+Here is a list of some open source software licenses and a bit of comparison between them. They are already available on GitHub so there is no need to look for them anywhere else, but [here](https://opensource.org/licenses/category) you can find a more extensive list of open source licenses.
 
 ![Popularity of open source licenses](https://github.blog/wp-content/uploads/2015/03/9dc14536-c367-11e4-9a63-b23a3d75af78.png?resize=762%2C445)
 
