@@ -87,3 +87,19 @@ Permissions of this weak copyleft license are conditioned on making available so
 ### The Unlicense
 ###### ```unlicense```
 A license with no conditions whatsoever which dedicates works to the public domain. Unlicensed works, modifications, and larger works may be distributed under different terms and without source code.
+
+License | Permissions | Limitations | Conditions
+------------ | ------------- | ------------- | -------------
+Apache License 2.0 | commercial use, modification, distribution, patent use, private use | trademark use, liability, warranty | license and copyright notice, state changes
+GNU General Public License v3.0 | Content in the second column | Content in the second column | Content in the second column
+MIT License | Content in the second column | Content in the second column | Content in the second column
+BSD 2-Clause “Simplified” License | Content in the second column | Content in the second column | Content in the second column
+BSD 3-Clause “New” or “Revised” License | Content in the second column | Content in the second column | Content in the second column
+Creative Commons Zero v1.0 Universal | Content in the second column | Content in the second column | Content in the second column
+Eclipse Public License 2.0 | Content in the second column | Content in the second column | Content in the second column
+GNU Affero General Public License v3.0 | Content in the second column | Content in the second column | Content in the second column
+GNU General Public License v2.0 | Content in the second column | Content in the second column | Content in the second column
+GNU Lesser General Public License v2.1 | Content in the second column | Content in the second column | Content in the second column
+GNU Lesser General Public License v3.0 | Content in the second column | Content in the second column | Content in the second column
+Mozilla Public License 2.0 | Content in the second column | Content in the second column | Content in the second column
+The Unlicense | Content in the second column | Content in the second column | Content in the second column
